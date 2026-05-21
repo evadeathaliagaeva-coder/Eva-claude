@@ -4,7 +4,7 @@
       "command": "npx",
       "args": ["-y", "@figma/mcp-server"],
       "env": {
-        "FIGMA_ACCESS_TOKEN": "YOUR_FIGMA_ACCESS_TOKEN_HERE"
+        "FIGMA_ACCESS_TOKEN": figd_QeQOWIXvUbWmfN7-h-3SXlrKfWcWbjmkax36RGF5
       }
     }
   }
